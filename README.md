@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Hype 👋</h1>
+<h1 align="center">Hi👋</h1>
 
 <p align="center">
   <a href="https://github.com/Hype0290">
-    <img src="https://img.shields.io/badge/GitHub-Hype0290-181717?style=flat&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Hype220-181717?style=flat&logo=github" alt="GitHub" />
   </a>
   <img src="https://img.shields.io/badge/Linux-%23007ACC?style=flat&logo=linux&logoColor=white" alt="Linux" />
   <img src="https://img.shields.io/badge/Pop!_OS-%233F4B4F?style=flat&logo=popos&logoColor=white" alt="Pop!_OS" />
